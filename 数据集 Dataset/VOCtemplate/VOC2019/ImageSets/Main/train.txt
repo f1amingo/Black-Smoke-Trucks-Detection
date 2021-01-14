@@ -1,5 +1,0 @@
-000024
-000024_brightness
-000024_contrast
-000024_equalized
-000024_flip_LR
