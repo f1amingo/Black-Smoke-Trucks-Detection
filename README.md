@@ -55,6 +55,7 @@ This paper attempts to use the mainstream target detection method to achieve aut
 ## 数据收集
 图片数据集主要来源为各大搜索引擎的关键字搜索结果。
 通过国内外搜索引擎搜索相关图片，对搜索结果进行爬取，一共爬取了来自国内搜索引擎的黑烟车图片234张，来自国外搜索引擎的黑烟车图片287张，原始图片共计521张。
+<p align="center"><img src="https://raw.githubusercontent.com/f1amingo/Black-Smoke-Trucks-Detection/main/Image/data-gathering.png"></p>
 
 ## 图像增广预处理
 
