@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/.settings/
+/.vscode/
+/bin/
+*/__pycache__
